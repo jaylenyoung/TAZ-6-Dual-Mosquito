@@ -30,7 +30,7 @@
  * Only change these if you know exactly what you're doing.
  * Some of these settings can damage your printer if improperly set!
  *
- * Basic settings can be found in Configuration.h
+ * Basic settings can be found in Configuration.h 
  */
 #define CONFIGURATION_ADV_H_VERSION 020008
 
